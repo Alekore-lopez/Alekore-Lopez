@@ -1,4 +1,5 @@
-### ¡Hola! Soy Alejandro López
+
++### ¡Hola! Soy Alejandro López
 
 En transición de **Analista de Soporte Técnico (3 años)** hacia **Ingeniería de Inteligencia Artificial**, cursando el último semestre de Ingeniería de Sistemas. Combino base sólida en soporte e infraestructura con desarrollo backend y las APIs de LLMs actuales.
 
