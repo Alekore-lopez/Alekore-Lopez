@@ -40,5 +40,7 @@ Stack: PHP · SQL · APIs de LLM
 ---
 
 ### 📫 Contactame
+Alejandro3456ca@gmail.com
+Se realizan Trabajos: 3183514004
 
 <!-- Agrega aquí tus links: LinkedIn, correo, portafolio -->
