@@ -29,7 +29,7 @@ Diseño y consumo de APIs REST para integración de servicios y modelos de IA.
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Proyecto
 
 **[SafeWorkSurvey](#)** — Sistema web para mejorar el bienestar laboral
 Plataforma para evaluar el estrés laboral en empresas del sector tecnológico, que analiza las respuestas de los colaboradores mediante IA (APIs de LLM) para generar recomendaciones personalizadas y detectar factores de riesgo psicosocial. Proyecto de investigación del semillero SIIANTEC (TEINCO), actualmente en continuación.
