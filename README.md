@@ -39,6 +39,6 @@ Stack: PHP · SQL · APIs de LLM
 
 ---
 
-### 📫 Contáctame
+### 📫 Contactame
 
 <!-- Agrega aquí tus links: LinkedIn, correo, portafolio -->
